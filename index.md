@@ -4,6 +4,12 @@ You can useB the [editor on GitHub](https://github.com/yelpcontest2017/predict_f
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+![Picture description](https://github.com/yelpcontest2017/predict_failure/blob/master/Figure_4.png?raw=true){: .center-image }
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
