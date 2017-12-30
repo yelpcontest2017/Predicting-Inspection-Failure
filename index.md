@@ -16,8 +16,8 @@ And if anyone has any ideas for how to improve the model, feel free to contact m
 
 There were 1706 restaurants in the dataset, and 2708 inspection instances. But the classes were highly imbalanced ![imbalanced](https://github.com/yelpcontest2017/Predicting-Inspection-Failure/blob/master/inspection_dist.png?) because only about 20% (561) of inspections resulted in failure. Although failure rates did not differ by price point, one surprising difference was how the distribution of _stars_ was opposite of what one would expect. 
 
-![imbalanced](https://github.com/yelpcontest2017/Predicting-Inspection-Failure/blob/master/stars_fail.png?)
-![imbalanced](https://github.com/yelpcontest2017/Predicting-Inspection-Failure/blob/master/stars_pass.png?)
+![imbalanced](https://github.com/yelpcontest2017/Predicting-Inspection-Failure/blob/master/stars_fail.png? = 250x250)
+![imbalanced](https://github.com/yelpcontest2017/Predicting-Inspection-Failure/blob/master/stars_pass.png? = 250x250)
 
 We might think the star distribution of resteraunts who failed inspections would be more left skewed than those who didn't, but this isn't the case. It looks like we really need to turn to the more in-depth feature and text data for some insight. 
 
