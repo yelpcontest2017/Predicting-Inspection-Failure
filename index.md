@@ -25,4 +25,3 @@ We might think the star distribution of resteraunts who failed inspections would
 After one-hot encoding the categorical features, we can take a very specific look at what contributes to the liklihood a resteraunt will fail inspections. This makes First, 
 <
 
-| Feature Name | Chi2 | |:-----------------------------:|:---------:| | attributes.NoiseLevel_quiet | 8.929125 | | categories.Butcher | 7.654189 | | categories.Halal | 7.379606 | | categories.Hawaiian | 7.713115 | | categories.Hotels | 6.938719 | | categories.Hotels & Travel | 7.393479 | | neighborhood_Chinatown | 7.847233 | | neighborhood_Etobicoke | 11.147838 | | neighborhood_Willowdale | 7.723131 | | inspection.InspectionNumber_6 | 6.793666 |
